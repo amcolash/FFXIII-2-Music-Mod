@@ -11,4 +11,4 @@ Hopefully this is useful for others!
 Tools:
 - ff13tool: https://steamcommunity.com/app/292120/discussions/0/613939294277998633/
 - ff13crypt: http://forum.xentax.com/viewtopic.php?p=90451#p90451
-- xxd: https://linux.die.net/man/1/xxd / https://github.com/vim/vim
+- xxd: https://linux.die.net/man/1/xxd  +  https://github.com/vim/vim
