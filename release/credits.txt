@@ -1,0 +1,6 @@
+New version of the BGM Mod for FF13-2 created by amcolash (https://github.com/amcolash/FFXIII-2-Music-Mod).
+
+Thanks to those who initially packaged this up BGM mod up (so I could figure things out) and for inspiration.
+
+Special thanks for the creator from the original ff13tool Sectus.
+Info from: https://www.reddit.com/r/ffxiv/comments/2zw3o4/ffxiv_arr_custom_music_finally/

@@ -1,0 +1,16 @@
+- Extract all files from the zip.
+
+- Make a backup of "filelist_scru.win32.bin" and "white_scru.win32.bin" from "FINAL FANTASY XIII-2\alba_data\sys".
+
+- Copy the files "filelist_scru.win32.bin" and "white_scru.win32.bin" from "FINAL FANTASY XIII-2\alba_data\sys" into this directory.
+
+- Double click audio.bat and then type in your desired gain (between 0.0 - 2.0):
+	[0.5] -> 50% of original audio
+	[0.7] -> 70% of original audio
+	[1.2] -> 120% of original audio
+
+- Wait for the process to complete - check at the end of each section to make sure there were no errors.
+
+- Copy the two files back to your game directory.
+
+- Profit!
